@@ -1,14 +1,13 @@
 
 Welcome aboard on Worldwide Express. We are the premier Chinese National Airline, serving 800,000 passengers a week on board our state-of-the-art Boeing 737 MAX 9s and A350-1000s. We assure you the most comfortable experince. 
 
-### Our Fleet
+## Our Fleet
 
-
-<a href="https://google.com" target="_blank">Google</a>
+##Boeing 737 MAX 9
 
 ![image-removebg-preview](https://github.com/lawrencep2026/TestSite/assets/145371373/2ebef3cd-031e-4807-8554-240352cf980a)
 
-
+As the backbone of our domestic fleet, our 400 MAX 9s operate hundreds of flights a day across China and the rest of Asia. Configured with 189 of the newest seats, 4K inflight enertainment, and every passenger 
 
 ## Flight Booking
 You can book our flights through <a href="https://myfly.club/nav-search" target="_blank">myfly.club</a>
