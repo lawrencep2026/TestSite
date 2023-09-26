@@ -5,7 +5,7 @@ Welcome aboard on Worldwide Express. We are the premier Chinese National Airline
 
 ### Boeing 737 MAX 9
 
-![image-removebg-preview](https://github.com/lawrencep2026/TestSite/assets/145371373/2ebef3cd-031e-4807-8554-240352cf980a)
+![Boeing 737 MAX 9](https://github.com/lawrencep2026/TestSite/assets/145371373/2ebef3cd-031e-4807-8554-240352cf980a)
 
 As the backbone of our domestic fleet, our 400 MAX 9s operate hundreds of flights a day across China and the rest of Asia. These aircraft are more comfortable and fuel efficent than its predecessors, ensuring a sustainable future and lower ticket prices. Equipped with 189 of the newest seats, Boeing's Sky Interior, and 4K inflight enertainment, every passenger guaranteed the most premium inflight experience.
 
